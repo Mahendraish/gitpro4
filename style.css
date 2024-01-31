@@ -69,3 +69,21 @@ span.psw {
     width: 100%;
   }
 }
+button{
+  height: 50px;
+  width: 100px;
+  border: 2px solid red;
+  border-radius:4px ;
+  background-color: #dd5757;
+  cursor: pointer;
+  text-decoration: none;
+}
+button:hover{
+  background-color: burlywood;
+}
+button:visited{
+  background-color: rgb(140, 217, 63);
+}
+button:active{
+  background-color: rgb(255, 31, 210);
+}
